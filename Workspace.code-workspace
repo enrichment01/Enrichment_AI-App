@@ -12,6 +12,7 @@
 			"**/.hg": true,
 			"**/.DS_Store": true,
 			"**/Thumbs.db": true,
+			"**/.mypy_cache": true,
 			"**/__pycache__": true,
 			"**/.venv": true,
 			".envrc": true,

@@ -37,13 +37,14 @@ new_use_cases = [
 ]
 
 navigation = st.navigation(
-    {
+    pages={
         "🏠 Start": [st.Page("views/Start.py", title="Übersicht")],
         "🔷 Streamlit Hello": streamlit_hello,
         "💬 Mit Prompts Arbeiten": chat_and_content,
         "🖼️ Bilder analysieren": vision_and_media,
         "📊 Q & A": analysis_and_rag,
         "🚀 Weitere Beispiele": new_use_cases,
-    }
+    },
+    expanded=False
 )
 navigation.run()
