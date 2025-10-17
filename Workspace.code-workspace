@@ -63,6 +63,19 @@
 				]
 			},
 			{
+				"name": "S: Hello",
+				"type": "debugpy",
+				"request": "launch",
+				"module": "streamlit",
+				"python": "${workspaceFolder}/.venv/bin/python",
+				"cwd": "${workspaceFolder}/Hello",
+				"args": [
+					"run",
+					"App.py",
+					"--server.port",
+					"28100"
+				]
+			},					{
 				"name": "S: Demo",
 				"type": "debugpy",
 				"request": "launch",
