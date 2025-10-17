@@ -53,7 +53,7 @@
 				"request": "launch",
 				"module": "streamlit",
 				"python": "${workspaceFolder}/.venv/bin/python",
-				"cwd": "${workspaceFolder}",
+				"cwd": "${workspaceFolder}/App",
 				"args": [
 					"run",
 					"App.py",
@@ -61,6 +61,20 @@
 					"28100"
 				]
 			},
+			{
+				"name": "S: Demo",
+				"type": "debugpy",
+				"request": "launch",
+				"module": "streamlit",
+				"python": "${workspaceFolder}/.venv/bin/python",
+				"cwd": "${workspaceFolder}/Demo",
+				"args": [
+					"run",
+					"App.py",
+					"--server.port",
+					"28100"
+				]
+			},			
 			{
 				"name": "P: with Arguments",
 				"type": "debugpy",
