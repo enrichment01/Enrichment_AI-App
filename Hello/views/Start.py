@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("⚡ Sreamlit Hello")
+st.title("⚡ Streamlit Hello")
 
-st.subheader("Welcome to Sremalit")
+st.subheader("Welcome to Streamlit")
 
 st.write(
     """

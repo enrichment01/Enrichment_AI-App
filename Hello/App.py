@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Enrichment MiniApps", page_icon="⚡", layout="wide")
+st.set_page_config(page_title="Streamlit Hello", page_icon="⚡", layout="wide")
 
 streamlit_hello = [
     st.Page("views/streamlit_hello/1_Animation_Demo.py", title="🏠 Animation"),
