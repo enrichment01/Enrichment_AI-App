@@ -6,21 +6,6 @@
   <p>
     Learn how to efficiently run Ollama in GitHub Codespaces for free.
   </p>
-
-  <!-- Badges -->
-  <p>
-    <a href="https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=BlackTechX&message=Ollama-in-GitHub-Codespaces&color=blue&logo=github" alt="BlackTechX - Ollama-in-GitHub-Codespaces"></a>
-    <a href="https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces"><img src="https://img.shields.io/github/stars/BlackTechX011/Ollama-in-GitHub-Codespaces?style=social" alt="stars - Ollama-in-GitHub-Codespaces"></a>
-    <a href="https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces"><img src="https://img.shields.io/github/forks/BlackTechX011/Ollama-in-GitHub-Codespaces?style=social" alt="forks - Ollama-in-GitHub-Codespaces"></a>
-  </p>
-
-  <h4>
-    <a href="https://www.GitHub.com/BlackTechX011/">GITHUB</a>
-    <span> · </span>
-    <a href="https://www.instagram.com/BlackTechX011/">INSTAGRAM</a>
-    <span> · </span>
-    <a href="https://www.youtube.com/@BlackTechX_">YOUTUBE</a>
-  </h4>
 </div>
 
 <br />
